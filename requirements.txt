@@ -1,1 +1,9 @@
+Flask
+gunicorn
+Django
+gunicorn
+numpy
+pandas
+opencv-python
+tensorflow
 
